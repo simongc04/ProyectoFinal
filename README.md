@@ -9,7 +9,7 @@
 - Juego en 3D con gráficos simples pero atractivos.
 - 10 niveles con dificultad progresiva.
 - Controles intuitivos: Mueve el cubo a la izquierda, derecha y salta.
-- Obstáculos dinámicos: Barreras móviles, trampas de pinchos, plataformas que desaparecen y zonas de caída.
+- Obstáculos dinámicos: Barreras móviles, trampas, plataformas que desaparecen y zonas de caída.
 - Sistema de puntuación: Obtén puntos por tiempo y objetos recogidos.
 - Menú principal con opciones de configuración.
 
@@ -19,55 +19,37 @@ El estilo visual de "Cube Runner 3D" es minimalista y atractivo. Con un entorno 
 
 ## 🏁 Niveles del Juego
 
-### Nivel 1: Camino Sencillo
+### Nivel 1: tutorial
 - **Dificultad:** Baja
 - **Descripción:** Un camino recto para aprender los controles básicos.
-- **Obstáculos:** Barreras estáticas.
 
-### Nivel 2: Primeros Desafíos
+### Nivel 2: Bosque
 - **Dificultad:** Baja
-- **Descripción:** Plataformas que desaparecen, saltos en el momento adecuado.
-- **Obstáculos:** Plataformas desaparecedoras.
+- **Descripción:** Plataformas que se muevan.
 
-### Nivel 3: Velocidad Incrementada
+### Nivel 3: Salvaje oeste 
 - **Dificultad:** Baja-Media
-- **Descripción:** El cubo acelera ligeramente.
+- **Descripción:** zona de salto + objetos en movimiento.
 - **Obstáculos:** Barreras móviles lentas.
 
-### Nivel 4: Saltos Básicos
+### Nivel 4: Formula 1
 - **Dificultad:** Media
-- **Descripción:** Plataformas que requieren saltos largos.
-- **Obstáculos:** Plataformas de diferentes tamaños.
+- **Descripción:** Plataformas en movimiento casi invisibles, caida.
 
-### Nivel 5: Plataformas Móviles
-- **Dificultad:** Media
-- **Descripción:** Plataformas móviles, rápido movimiento es clave.
+### Nivel 5: Polo norte 
+- **Dificultad:** Media-alta
+- **Descripción:** Plataformas que parpadean + objetos en movimientos
 - **Obstáculos:** Plataformas móviles.
 
 ### Nivel 6: Trampas de Pinchos
-- **Dificultad:** Media
-- **Descripción:** Trampas de pinchos a evitar.
+- **Dificultad:** Media-alta
+- **Descripción:** Plataformas que parpadean + obstaculos + objetos en movimientos
 - **Obstáculos:** Trampas de pinchos, plataformas que desaparecen.
 
-### Nivel 7: Paredes Móviles
-- **Dificultad:** Media
-- **Descripción:** Paredes móviles que amenazan con bloquear el camino.
-- **Obstáculos:** Paredes móviles.
+### Nivel 7:  Estadio de futbol
+- **Dificultad:** Dificil
+- **Descripción:**  + obstaculos + objetos en movimientos + saltos + obstaculos
 
-### Nivel 8: Camino Estrecho
-- **Dificultad:** Media-Alta
-- **Descripción:** Un camino estrecho con barreras difíciles de esquivar.
-- **Obstáculos:** Barreras estrechas, plataformas móviles.
-
-### Nivel 9: El Desafío de la Velocidad
-- **Dificultad:** Alta
-- **Descripción:** La velocidad aumenta, exige rapidez y precisión.
-- **Obstáculos:** Barreras móviles, plataformas que desaparecen.
-
-### Nivel 10: El Final del Camino
-- **Dificultad:** Alta
-- **Descripción:** El reto final con todos los obstáculos combinados.
-- **Obstáculos:** Barreras móviles rápidas, trampas de pinchos.
 
 ## 🗓️ Cronograma de Desarrollo
 
