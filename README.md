@@ -7,8 +7,8 @@
 ## 🎮 Características Principales
 
 - Juego en 3D con gráficos simples pero atractivos.
-- 10 niveles con dificultad progresiva.
-- Controles intuitivos: Mueve el cubo a la izquierda, derecha y salta.
+- 7 niveles con dificultad progresiva.
+- Controles intuitivos: Mueve el cubo a la izquierda, derecha,salta s shift para correr.
 - Obstáculos dinámicos: Barreras móviles, trampas, plataformas que desaparecen y zonas de caída.
 - Sistema de puntuación: Obtén puntos por tiempo y objetos recogidos.
 - Menú principal con opciones de configuración.
